@@ -1,6 +1,6 @@
 ---
 nav:
-  title: Getting Started
+  title: Service outsourcing
   order: 1
 ---
 

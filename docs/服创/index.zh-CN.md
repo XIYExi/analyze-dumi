@@ -1,6 +1,6 @@
 ---
 nav:
-  title: 快速开始
+  title: 服创
   order: 1
 ---
 
