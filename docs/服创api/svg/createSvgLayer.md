@@ -8,7 +8,6 @@ and integrate json for use by the main function.
 /**
  * 获取当前svg的渲染参数
  * @param element
- * @returns {{ref, svg: *, x: number, width: number, y: number, type: string, height: number}}
  */
 export const createSvgLayer = (element) => {
     //getBoundingClientRect() 返回的是矩形的集合，表示了当前盒子在浏览器中的位置以及自身占据的空间的大小，

@@ -8,8 +8,6 @@
 ```js
 /**
  * 通过getBoundingClientRect得到四个方向上最大的值，最后计算得出长宽，得到绝对布局（相对来说最大的）
- * @param elements
- * @returns {{top: *, left: *, bottom: *, width: number, right: *, height: number}|null}
  */
 function getAggregateRectOfElements(elements){
     if(!elements.length)

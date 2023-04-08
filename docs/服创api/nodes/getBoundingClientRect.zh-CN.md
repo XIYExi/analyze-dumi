@@ -8,7 +8,6 @@
 /**
  * 返回当前节点可能占的最大空间
  * @param element
- * @returns {{top: *, left: number, bottom: *, width: number, right: number, height: number}|{top: *, left: *, bottom: *, width: number, right: *, height: number}|DOMRect}
  */
 export function getBoundingClientRect(element) {
     //得到计算后的样式
