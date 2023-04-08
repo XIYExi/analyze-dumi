@@ -3,8 +3,8 @@ hero:
   title: Envelope 开发者内部文档
   desc: 技术文档，设计手册 ~
   actions:
-    - text: 服创
-      link: /服创
+    - text: 计设
+      link: /计设
     - text: GitHub
       link: https://github.com/XIYExi/html-to-mastergo
 features:

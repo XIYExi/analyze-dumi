@@ -3,8 +3,8 @@ hero:
   title: Envelope Developer Doc
   desc: doc
   actions:
-    - text: Service outsourcing
-      link: /服创
+    - text: Computer Design
+      link: /计设
     - text: GitHub
       link: https://github.com/XIYExi/html-to-mastergo
 features:
