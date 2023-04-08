@@ -9,6 +9,10 @@ export default defineConfig({
   devServer: {
     port: 1998 // 自定义端口号
   },
+  resolve: {
+    excludes:['docs']
+  },
+  outputPath: 'docs',
   base: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
   publicPath: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
 });
