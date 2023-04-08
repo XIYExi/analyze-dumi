@@ -1,9 +1,9 @@
 import { defineConfig } from 'dumi';
 
-const repo = 'design-doc-dumi'
+const repo = 'analyze-dumi'
 
 export default defineConfig({
-  title: 'design-doc-dumi',
+  title: 'analyze-dumi',
   mode: 'site',
   // more config: https://d.umijs.org/config
   devServer: {

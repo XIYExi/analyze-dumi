@@ -1,5 +1,5 @@
 # 项目名
-name: design doc dumi
+name: analyze-dumi
 
 # 只有在master分支发生push事件时触发
 on:
@@ -36,7 +36,3 @@ jobs:
           branch: build # 打包的内容放到build分支下
           folder: dist
 
-  作者：huhu24
-  链接：https://juejin.cn/post/7103871313492017159
-  来源：稀土掘金
-  著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
